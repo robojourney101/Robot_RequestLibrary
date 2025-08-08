@@ -2,7 +2,7 @@
 
 [Request Library Keywords](https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html)
 
-library for Python. [requests](https://github.com/kennethreitz/requests)
+Gihub requests. [requests](https://github.com/kennethreitz/requests)
 
 ## 📖 Overview
 This project demonstrates how to test REST APIs using **Robot Framework** with **RequestsLibrary**.  
