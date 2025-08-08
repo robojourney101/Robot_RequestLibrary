@@ -1,7 +1,8 @@
 # 🚀 API Testing with Robot Framework - RequestsLibrary
 
 [Request Library Keywords](https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html)
-Kenneth Reitz : [requests](https://github.com/kennethreitz/requests)
+
+library for Python. [requests](https://github.com/kennethreitz/requests)
 
 ## 📖 Overview
 This project demonstrates how to test REST APIs using **Robot Framework** with **RequestsLibrary**.  
