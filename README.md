@@ -1,9 +1,5 @@
 # 🚀 API Testing with Robot Framework - RequestsLibrary
 
-[Request Library Keywords](https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html)
-
-Gihub requests. [requests](https://github.com/kennethreitz/requests)
-
 ## 📖 Overview
 This project demonstrates how to test REST APIs using **Robot Framework** with **RequestsLibrary**.  
 It covers the four main HTTP methods used in RESTful services:
@@ -20,6 +16,7 @@ We use **[httpbin.org](https://httpbin.org)** as the test API, which is a public
 - Python 3.8+  
 - [Robot Framework](https://robotframework.org/)  
 - [RequestsLibrary](https://github.com/MarketSquare/robotframework-requests)  
+- [RequestsLibrary Keywords](https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html) 
 
 Install required packages:
 ```bash
